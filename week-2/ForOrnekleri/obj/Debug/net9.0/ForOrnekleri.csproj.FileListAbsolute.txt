@@ -1,0 +1,14 @@
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\bin\Debug\net9.0\ForOrnekleri.exe
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\bin\Debug\net9.0\ForOrnekleri.deps.json
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\bin\Debug\net9.0\ForOrnekleri.runtimeconfig.json
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\bin\Debug\net9.0\ForOrnekleri.dll
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\bin\Debug\net9.0\ForOrnekleri.pdb
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ForOrnekleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ForOrnekleri.AssemblyInfoInputs.cache
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ForOrnekleri.AssemblyInfo.cs
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ForOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ForOrnekleri.dll
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\refint\ForOrnekleri.dll
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ForOrnekleri.pdb
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ForOrnekleri.genruntimeconfig.cache
+C:\Users\sahin\OneDrive\Desktop\Odevler\week-2\ForOrnekleri\obj\Debug\net9.0\ref\ForOrnekleri.dll
